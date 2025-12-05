@@ -1,3 +1,10 @@
+<!-- Change Log (2025-12-04)
+- Added strict evidence mode flag.
+- Added fallback message for insufficient evidence.
+- Added standardized warnings for missing/short sections.
+-->
+
+
 # Module 3: Guardrails
 
 ## Purpose
