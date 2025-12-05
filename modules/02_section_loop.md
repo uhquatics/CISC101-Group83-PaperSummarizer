@@ -1,3 +1,9 @@
+<!-- Change Log (2025-12-04)
+- Added `summary_level` variable to control short vs detailed summaries.
+- Implemented conditional logic for 1–2 sentence summaries (short mode).
+- Implemented detailed mode: paragraph plus 3–5 key-point bullet list.
+-->
+
 # Module 2: Section Loop
 
 ## Purpose
